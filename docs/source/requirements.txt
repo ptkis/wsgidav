@@ -7,7 +7,7 @@ PyYAML~=6.0
 # RTD:
 sphinx~=4.3
 sphinx_rtd_theme~=1.0.0
-readthedocs-sphinx-search==0.1.1
+readthedocs-sphinx-search==0.3.2
 recommonmark~=0.7.1
 # MyST
 myst-parser[linkify]
